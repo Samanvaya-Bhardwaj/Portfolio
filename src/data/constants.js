@@ -278,15 +278,15 @@ export const projects = [
     title: "Online Code Sync Editor",
     date: "Jun 2023",
     description:
-      "Movie Check is a movie rating website in which user can rate the movies after registering themself through their personal information. The registration is complete after typing the correct otp which they get by giving their mobile number. All the users information is stored in the firebase. When the user trys to login the next time, they just have to give their mobile number and password, if it matches to the existing data then the user is allowed to login.",
+      "Developed an Online Code Sync Editor using React JS, Node JS, Express JS, and Socket.io, in this project i am Enabling real-time collaborative coding or chat. I have Implemented Socket.io for seamless synchronization among room participants.",
     image:
       "/assets/editor.png",
     tags: [
       "React",
-      "Firebase",
+      "Node Js",
       "JavaScript",
-      "Tailwind CSS",
-      "HTML"
+      "Express Js",
+      "Socket.io",
     ],
     category: "web app",
     github: "https://github.com/Samanvaya-Bhardwaj/Code-Sync",
@@ -297,15 +297,14 @@ export const projects = [
     title: "News Website",
     date: "Jun 2023",
     description:
-      "Movie Check is a movie rating website in which user can rate the movies after registering themself through their personal information. The registration is complete after typing the correct otp which they get by giving their mobile number. All the users information is stored in the firebase. When the user trys to login the next time, they just have to give their mobile number and password, if it matches to the existing data then the user is allowed to login.",
+      "I showcase a dynamic news website I developed that harnesses the power of an API to deliver real-time news updates. This project demonstrates my proficiency in web development, API integration, and user interface design, highlighting my ability to create engaging and informative digital experiences for users.",
     image:
       "/assets/news.png",
     tags: [
       "React",
-      "Firebase",
+      "API",
       "JavaScript",
-      "Tailwind CSS",
-      "HTML"
+      "Bootstrap"
     ],
     category: "web app",
     github: "https://github.com/Samanvaya-Bhardwaj/news-app",
@@ -316,15 +315,15 @@ export const projects = [
     title: "Khareed Baazaar: E-commerce Website",
     date: "Jun 2023",
     description:
-      "Movie Check is a movie rating website in which user can rate the movies after registering themself through their personal information. The registration is complete after typing the correct otp which they get by giving their mobile number. All the users information is stored in the firebase. When the user trys to login the next time, they just have to give their mobile number and password, if it matches to the existing data then the user is allowed to login.",
+      "Developed the e-commerce website using ReactJS, Bootstrap, and API integration to  made an intuitive and user-friendly interface for browsing, selecting, and purchasing items via a cart system. Leveraged React Hooks to design and implement dynamic features, resulting in a seamless and engaging user experience. Successfully fetched and displayed data from an online API, ensuring real-time and up-to-date product information.",
     image:
       "/assets/ecommerce.png",
     tags: [
       "React",
-      "Firebase",
+      "API",
       "JavaScript",
-      "Tailwind CSS",
-      "HTML"
+      "Bootstrap",
+      "Redux"
     ],
     category: "web app",
     github: "https://github.com/Samanvaya-Bhardwaj/Khareed-Bazaar-e-commerce-",
@@ -335,34 +334,29 @@ export const projects = [
     title: "Portfolio: Samanvaya Bhardwaj",
     date: "Jun 2023",
     description:
-      "Movie Check is a movie rating website in which user can rate the movies after registering themself through their personal information. The registration is complete after typing the correct otp which they get by giving their mobile number. All the users information is stored in the firebase. When the user trys to login the next time, they just have to give their mobile number and password, if it matches to the existing data then the user is allowed to login.",
+      "My portfolio website serves as a comprehensive digital representation of my professional journey. It features a curated collection of my educational background, skill set, project achievements, and relevant training experiences. With an 'About' section to introduce myself and a 'Contact' page to facilitate easy communication, my portfolio is a one-stop destination for anyone looking to explore my qualifications and get in touch.",
     image:
       "/assets/portfolio.png",
     tags: [
       "React",
-      "Firebase",
       "JavaScript",
-      "Tailwind CSS",
-      "HTML"
+      "Tailwind CSS"
     ],
     category: "others",
-    github: "https://github.com/Samanvaya-Bhardwaj/movie-check",
-    webapp: "https://filmyverse-sigma.vercel.app/",
+    github: "https://github.com/Samanvaya-Bhardwaj/Portfolio",
+    webapp: "https://portfolio-ten-ashen-37.vercel.app/",
   },
   {
     id: 5,
     title: "Billing Software",
     date: "Jun 2023",
     description:
-      "Movie Check is a movie rating website in which user can rate the movies after registering themself through their personal information. The registration is complete after typing the correct otp which they get by giving their mobile number. All the users information is stored in the firebase. When the user trys to login the next time, they just have to give their mobile number and password, if it matches to the existing data then the user is allowed to login.",
+      "I've developed a Python-based billing software that streamlines the process of calculating taxes and generating detailed bills. This software simplifies financial transactions and invoice creation, making it an invaluable tool for businesses and individuals alike. With a user-friendly interface and precise tax calculations, it enhances efficiency and accuracy in billing procedures.",
     image:
       "/assets/billing.png",
     tags: [
-      "React",
-      "Firebase",
-      "JavaScript",
-      "Tailwind CSS",
-      "HTML"
+      "Python",
+      "Tkinter",
     ],
     category: "programming language",
     github: "https://github.com/Samanvaya-Bhardwaj/Bill-Generating-Software",
