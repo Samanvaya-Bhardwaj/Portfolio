@@ -131,7 +131,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_b93631c', 'template_dalzvto', form.current, 'kQXG8Q3vZduLipXpkZ4ap')
+    emailjs.sendForm('service_b93631c', 'template_dalzvto', form.current, 'DTOsSB8EPSPTdogx4')
       .then((result) => {
         setOpen(true);
         console.log(result.text);
