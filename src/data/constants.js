@@ -226,15 +226,23 @@ export const trainings = [
 export const education = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/en/3/3a/Lovely_Professional_University_logo.png",
-    school: "Lovely Professional University, Phagwara",
-    date: "August 2020 - Jun 2024",
-    grade: "7.66 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Lovely Professioanl University, Phagwara. I have taken courses in Data Structures and Algorithms, Database Management Systems, Angular, React Js, Serve Side Scripting, Operating Systems, and Computer Networks, among others. My specification is Web Development.",
+    img: "https://iiitd.ac.in/about/graphic-identity",
+    school: "IIIT, Delhi",
+    date: "August 2025 - Jun 2027",
+    desc: "I am currently pursuing my masters's degree in Computer Science and Engineering at IIIT Delhi. I have taken courses in Machine Learning, Algorithms and Object oriented Programming and Design",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
     id: 1,
+    img: "https://upload.wikimedia.org/wikipedia/en/3/3a/Lovely_Professional_University_logo.png",
+    school: "Lovely Professional University, Phagwara",
+    date: "August 2020 - Jun 2024",
+    grade: "7.8 CGPA",
+    desc: "I have completed my Bachelor's degree in Computer Science and Engineering at Lovely Professioanl University, Phagwara. I have taken courses in Data Structures and Algorithms, Database Management Systems, Angular, React Js, Serve Side Scripting, Operating Systems, and Computer Networks, among others. My specification is Web Development.",
+    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+  },
+  {
+    id: 2,
     img: "https://imgs.search.brave.com/JXGvpKNN555iNgZt_0Eg1R8WN4ZSrvZYuJ7IW4Uuzm8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL0MvY2JzZS1s/b2dvLTQ2RDVBNkI1/NTYtc2Vla2xvZ28u/Y29tLnBuZw",
     school: "Indraprastha Public School, Morna, Muzaffarnagar",
     date: "Apr 2019 - Apr 2020",
@@ -243,7 +251,7 @@ export const education = [
     degree: "CBSE(XII)",
   },
   {
-    id: 2,
+    id: 3,
     img: "https://imgs.search.brave.com/JXGvpKNN555iNgZt_0Eg1R8WN4ZSrvZYuJ7IW4Uuzm8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL0MvY2JzZS1s/b2dvLTQ2RDVBNkI1/NTYtc2Vla2xvZ28u/Y29tLnBuZw",
     school: "Indraprastha Public School, Morna, Muzaffarnagar",
     date: "Apr 2017 - Apr 2018",
